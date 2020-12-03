@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0dea231c-45b3-4421-9f14-b0d0306736bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AlgoExpert.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/BinaryTreeNodeDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/HackerRankRepeatedChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/HackerankMinimuDistances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/NthFibonaccii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/BinaryTreeBranchSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/BinaryTreeBranchSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/BinaryTreeNodeDepth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/CloseseValueBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/CloseseValueBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/TwoNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/TwoNumberSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/ValidateSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/ValidateSubsequence.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l3Lk0Whe6gdQfm4zWch8g3r0PR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/challenges/algoexpert/easy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.NthFibonaccii">
+    <configuration name="BinaryTreeBranchSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.BinaryTreeBranchSum" />
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenges.algoexpert.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeNodeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.BinaryTreeNodeDepth" />
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenges.algoexpert.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloseseValueBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.CloseseValueBST" />
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenges.algoexpert.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HackerRankRepeatedChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankRepeatedChars" />
+      <module name="AlgoExpert" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NthFibonaccii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.NthFibonaccii" />
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenges.algoexpert.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NthFibonaccii" />
+        <item itemvalue="Application.BinaryTreeNodeDepth" />
+        <item itemvalue="Application.HackerRankRepeatedChars" />
+        <item itemvalue="Application.BinaryTreeBranchSum" />
+        <item itemvalue="Application.CloseseValueBST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dea231c-45b3-4421-9f14-b0d0306736bb" name="Default Changelist" comment="" />
+      <created>1606820967884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606820967884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1888" y="133" key="#Project_Structure" timestamp="1606939059369">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1888" y="133" key="#Project_Structure/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606939059369" />
+    <state x="2748" y="177" key="#xdebugger.evaluate" timestamp="1606945384877">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2748" y="177" key="#xdebugger.evaluate/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945384877" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1606986917863">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917863" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1606986917862">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917862" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1606986917862">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917862" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1606986917863">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917863" />
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1606945400874">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.bottom/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400874" />
+    <state width="1878" height="358" key="GridCell.Tab.1.center" timestamp="1606945400873">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.center/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400873" />
+    <state width="1878" height="358" key="GridCell.Tab.1.left" timestamp="1606945400872">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.left/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400872" />
+    <state width="1878" height="358" key="GridCell.Tab.1.right" timestamp="1606945400873">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="358" key="GridCell.Tab.1.right/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400873" />
+    <state x="1888" y="133" key="SettingsEditor" timestamp="1606939406502">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1888" y="133" key="SettingsEditor/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606939406502" />
+    <state x="2187" y="336" key="chooseDestDirectoryDialog" timestamp="1606943080738">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2187" y="336" key="chooseDestDirectoryDialog/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606943080738" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/HackerRankRepeatedChars.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
