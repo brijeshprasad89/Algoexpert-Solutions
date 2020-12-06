@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dea231c-45b3-4421-9f14-b0d0306736bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AlgoExpert.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/BinaryTreeNodeDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/HackerRankRepeatedChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/HackerankMinimuDistances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/NthFibonaccii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/BinaryTreeBranchSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/BinaryTreeBranchSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/BinaryTreeNodeDepth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/CloseseValueBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/CloseseValueBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/TwoNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/TwoNumberSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/ValidateSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/ValidateSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/ProductSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +62,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.NthFibonaccii">
+  <component name="RunManager" selected="Application.ProductSum">
     <configuration name="BinaryTreeBranchSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.BinaryTreeBranchSum" />
       <module name="AlgoExpert" />
@@ -90,19 +78,6 @@
     </configuration>
     <configuration name="BinaryTreeNodeDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.BinaryTreeNodeDepth" />
-      <module name="AlgoExpert" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.challenges.algoexpert.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CloseseValueBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.CloseseValueBST" />
       <module name="AlgoExpert" />
       <extension name="coverage">
         <pattern>
@@ -134,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.ProductSum" />
+      <module name="AlgoExpert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenges.algoexpert.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductSum" />
         <item itemvalue="Application.NthFibonaccii" />
         <item itemvalue="Application.BinaryTreeNodeDepth" />
         <item itemvalue="Application.HackerRankRepeatedChars" />
         <item itemvalue="Application.BinaryTreeBranchSum" />
-        <item itemvalue="Application.CloseseValueBST" />
       </list>
     </recent_temporary>
   </component>
@@ -176,21 +164,25 @@
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="2748" y="177" key="#xdebugger.evaluate/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945384877" />
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1606986917863">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1607009019613">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607009019613" />
     <state width="1878" height="290" key="GridCell.Tab.0.bottom/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917863" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1606986917862">
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1607009019612">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607009019612" />
     <state width="1878" height="290" key="GridCell.Tab.0.center/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917862" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1606986917862">
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1607009019612">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607009019612" />
     <state width="1878" height="290" key="GridCell.Tab.0.left/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917862" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1606986917863">
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1607009019613">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607009019613" />
     <state width="1878" height="290" key="GridCell.Tab.0.right/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606986917863" />
     <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1606945400874">
       <screen x="1440" y="23" width="1920" height="1057" />
