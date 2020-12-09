@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0dea231c-45b3-4421-9f14-b0d0306736bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/CaesarCypherEncryptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/RunLengthEncoding.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/challenges/algoexpert/production/AlgoExpert/com/challenges/algoexpert/easy/CaesarCypherEncryptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/challenges/algoexpert/production/AlgoExpert/com/challenges/algoexpert/easy/CaesarCypherEncryptor.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.CaesarCypherEncryptor">
+  <component name="RunManager" selected="Application.RunLengthEncoding">
     <configuration name="CaesarCypherEncryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.CaesarCypherEncryptor" />
       <module name="AlgoExpert" />
@@ -83,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthFibonaccii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.NthFibonaccii" />
+    <configuration name="HackerRankRepeatedChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.HackerRankRepeatedChars" />
       <module name="AlgoExpert" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.ProductSum" />
+    <configuration name="RunLengthEncoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenges.algoexpert.easy.RunLengthEncoding" />
       <module name="AlgoExpert" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunLengthEncoding" />
+        <item itemvalue="Application.HackerRankRepeatedChars" />
         <item itemvalue="Application.CaesarCypherEncryptor" />
         <item itemvalue="Application.ThreeLargestIntegers" />
         <item itemvalue="Application.GetChange" />
-        <item itemvalue="Application.ProductSum" />
-        <item itemvalue="Application.NthFibonaccii" />
       </list>
     </recent_temporary>
   </component>
@@ -165,64 +166,68 @@
     </state>
     <state x="874" y="23" key="#xdebugger.evaluate/45.23.1395.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607348418066" />
     <state x="2748" y="177" key="#xdebugger.evaluate/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945384877" />
-    <state width="1350" height="286" key="GridCell.Tab.0.bottom" timestamp="1607366194993">
-      <screen x="47" y="23" width="1393" height="877" />
+    <state width="1325" height="153" key="GridCell.Tab.0.bottom" timestamp="1607523551705">
+      <screen x="73" y="25" width="1367" height="875" />
     </state>
     <state width="1878" height="230" key="GridCell.Tab.0.bottom/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607365110365" />
-    <state width="1350" height="286" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1607366194993" />
+    <state width="1350" height="286" key="GridCell.Tab.0.bottom/47.23.1393.877@47.23.1393.877" timestamp="1607368167012" />
     <state width="1878" height="290" key="GridCell.Tab.0.bottom/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607267074709" />
     <state width="1350" height="230" key="GridCell.Tab.0.bottom/48.23.1392.877@48.23.1392.877" timestamp="1607339962224" />
     <state width="1878" height="358" key="GridCell.Tab.0.bottom/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906048" />
-    <state width="1350" height="286" key="GridCell.Tab.0.center" timestamp="1607366194992">
-      <screen x="47" y="23" width="1393" height="877" />
+    <state width="1325" height="153" key="GridCell.Tab.0.bottom/73.25.1367.875@73.25.1367.875" timestamp="1607523551705" />
+    <state width="1325" height="153" key="GridCell.Tab.0.center" timestamp="1607523551704">
+      <screen x="73" y="25" width="1367" height="875" />
     </state>
     <state width="1878" height="230" key="GridCell.Tab.0.center/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607365110364" />
-    <state width="1350" height="286" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1607366194992" />
+    <state width="1350" height="286" key="GridCell.Tab.0.center/47.23.1393.877@47.23.1393.877" timestamp="1607368167012" />
     <state width="1878" height="290" key="GridCell.Tab.0.center/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607267074708" />
     <state width="1350" height="230" key="GridCell.Tab.0.center/48.23.1392.877@48.23.1392.877" timestamp="1607339962224" />
     <state width="1878" height="358" key="GridCell.Tab.0.center/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906047" />
-    <state width="1350" height="286" key="GridCell.Tab.0.left" timestamp="1607366194992">
-      <screen x="47" y="23" width="1393" height="877" />
+    <state width="1325" height="153" key="GridCell.Tab.0.center/73.25.1367.875@73.25.1367.875" timestamp="1607523551704" />
+    <state width="1325" height="153" key="GridCell.Tab.0.left" timestamp="1607523551704">
+      <screen x="73" y="25" width="1367" height="875" />
     </state>
     <state width="1878" height="230" key="GridCell.Tab.0.left/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607365110364" />
-    <state width="1350" height="286" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1607366194992" />
+    <state width="1350" height="286" key="GridCell.Tab.0.left/47.23.1393.877@47.23.1393.877" timestamp="1607368167011" />
     <state width="1878" height="290" key="GridCell.Tab.0.left/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607267074707" />
     <state width="1350" height="230" key="GridCell.Tab.0.left/48.23.1392.877@48.23.1392.877" timestamp="1607339962223" />
     <state width="1878" height="358" key="GridCell.Tab.0.left/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906047" />
-    <state width="1350" height="286" key="GridCell.Tab.0.right" timestamp="1607366194992">
-      <screen x="47" y="23" width="1393" height="877" />
+    <state width="1325" height="153" key="GridCell.Tab.0.left/73.25.1367.875@73.25.1367.875" timestamp="1607523551704" />
+    <state width="1325" height="153" key="GridCell.Tab.0.right" timestamp="1607523551705">
+      <screen x="73" y="25" width="1367" height="875" />
     </state>
     <state width="1878" height="230" key="GridCell.Tab.0.right/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607365110365" />
-    <state width="1350" height="286" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1607366194992" />
+    <state width="1350" height="286" key="GridCell.Tab.0.right/47.23.1393.877@47.23.1393.877" timestamp="1607368167012" />
     <state width="1878" height="290" key="GridCell.Tab.0.right/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607267074709" />
     <state width="1350" height="230" key="GridCell.Tab.0.right/48.23.1392.877@48.23.1392.877" timestamp="1607339962224" />
     <state width="1878" height="358" key="GridCell.Tab.0.right/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906048" />
-    <state width="1350" height="286" key="GridCell.Tab.1.bottom" timestamp="1607366194994">
+    <state width="1325" height="153" key="GridCell.Tab.0.right/73.25.1367.875@73.25.1367.875" timestamp="1607523551705" />
+    <state width="1350" height="286" key="GridCell.Tab.1.bottom" timestamp="1607368167014">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.1.bottom/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607364908671" />
-    <state width="1350" height="286" key="GridCell.Tab.1.bottom/47.23.1393.877@47.23.1393.877" timestamp="1607366194994" />
+    <state width="1350" height="286" key="GridCell.Tab.1.bottom/47.23.1393.877@47.23.1393.877" timestamp="1607368167014" />
     <state width="1878" height="358" key="GridCell.Tab.1.bottom/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400874" />
     <state width="1878" height="358" key="GridCell.Tab.1.bottom/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906174" />
-    <state width="1350" height="286" key="GridCell.Tab.1.center" timestamp="1607366194993">
+    <state width="1350" height="286" key="GridCell.Tab.1.center" timestamp="1607368167013">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.1.center/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607364908670" />
-    <state width="1350" height="286" key="GridCell.Tab.1.center/47.23.1393.877@47.23.1393.877" timestamp="1607366194993" />
+    <state width="1350" height="286" key="GridCell.Tab.1.center/47.23.1393.877@47.23.1393.877" timestamp="1607368167013" />
     <state width="1878" height="358" key="GridCell.Tab.1.center/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400873" />
     <state width="1878" height="358" key="GridCell.Tab.1.center/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906173" />
-    <state width="1350" height="286" key="GridCell.Tab.1.left" timestamp="1607366194993">
+    <state width="1350" height="286" key="GridCell.Tab.1.left" timestamp="1607368167013">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.1.left/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607364908669" />
-    <state width="1350" height="286" key="GridCell.Tab.1.left/47.23.1393.877@47.23.1393.877" timestamp="1607366194993" />
+    <state width="1350" height="286" key="GridCell.Tab.1.left/47.23.1393.877@47.23.1393.877" timestamp="1607368167013" />
     <state width="1878" height="358" key="GridCell.Tab.1.left/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400872" />
     <state width="1878" height="358" key="GridCell.Tab.1.left/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906173" />
-    <state width="1350" height="286" key="GridCell.Tab.1.right" timestamp="1607366194994">
+    <state width="1350" height="286" key="GridCell.Tab.1.right" timestamp="1607368167014">
       <screen x="47" y="23" width="1393" height="877" />
     </state>
     <state width="1878" height="358" key="GridCell.Tab.1.right/47.23.1393.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1607364908670" />
-    <state width="1350" height="286" key="GridCell.Tab.1.right/47.23.1393.877@47.23.1393.877" timestamp="1607366194994" />
+    <state width="1350" height="286" key="GridCell.Tab.1.right/47.23.1393.877@47.23.1393.877" timestamp="1607368167014" />
     <state width="1878" height="358" key="GridCell.Tab.1.right/48.23.1392.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1606945400873" />
     <state width="1878" height="358" key="GridCell.Tab.1.right/51.23.1869.1057@51.23.1869.1057" timestamp="1607347906174" />
     <state x="1888" y="133" key="SettingsEditor" timestamp="1606939406502">
@@ -253,7 +258,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/challenges/algoexpert/easy/com/challenges/algoexpert/easy/CaesarCypherEncryptor.java</url>
-          <line>13</line>
+          <line>24</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
